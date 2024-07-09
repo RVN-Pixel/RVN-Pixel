@@ -5,7 +5,7 @@
 Competitive Programmer | Data Structures and Algorithms Enthusiast | Applied Mathematics Lover | Active Developer<br>Passionate about competitive programming and fascinated by the elegance of mathematical concepts and algorithms, I embark on a journey to solve intricate problems. With a creative mindset, active involvement, and a keen interest in development, I strive to craft innovative solutions that push the boundaries of what's possible. Join me in this thrilling pursuit of coding excellence and let's create, innovate, and build a better tomorrow together.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pritamd_2.0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritam-das-183041241/) [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/pritamd_018?share_id=QOZ3rDfWmF4&locale=en-IN)
 
 # 💻 Tech Stack:
