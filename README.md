@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Competitive Programmer | Data Structures and Algorithms Enthusiast | Applied Mathematics Lover | Active Developer<br>Passionate about competitive programming and fascinated by the elegance of mathematical concepts and algorithms, I embark on a journey to solve intricate problems. With a creative mindset, active involvement, and a keen interest in development, I strive to craft innovative solutions that push the boundaries of what's possible. Join me in this thrilling pursuit of coding excellence and let's create, innovate, and build a better tomorrow together.
+Programmer | Data Structures and Algorithms Enthusiast | Applied Mathematics Lover | Developer<br>Driven by a passion for competitive programming and captivated by the beauty of mathematical concepts and algorithms, I am on a mission to tackle complex challenges. With a creative mindset, active engagement, and a strong interest in development, I aim to devise innovative solutions that push the limits of possibility. Join me in this exciting journey toward coding excellence, where we can create, innovate, and build a better future together.
 
 
 # 🌐 Socials:
